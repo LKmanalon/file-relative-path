@@ -11,7 +11,7 @@
  * Description: Manage all your file path to relative format.
  * Author: Leandro Keene C. Manalon
  * Version: 1.0
- * Author URI: https://leandrokeenecmanalon.com
+ * Author URI: https://lkmanalon.github.io/
  * Text Domain: file-relative-path
  */
 
