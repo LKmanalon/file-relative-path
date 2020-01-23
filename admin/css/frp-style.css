@@ -1,0 +1,34 @@
+/*
+  * Plugin Name: File Relative Path
+  * Author: Leandro Keene C. Manalon
+*/
+
+body { outline: none; margin: 0;}
+
+body.tools_page_file-relative-path div#wpbody-content {
+    max-width: 80%;
+}
+
+/* Header Style */
+
+.frp-header-container {padding-top: 15px;margin-bottom: 30px;}
+.frp-plugin-name { padding: 10px 0; font-size: 18px; }
+.frp-plugin-name span { font-size: 12px; font-style: italic; }
+.frp-plugin-description {}
+
+
+  /* Plugin Navigation */
+
+.frp-navigation { margin-bottom: 20px; }
+.frp-plugin-settings-title {font-size: 20px;margin-bottom: 25px; }
+.frp-navigation li { display: inline; margin-right: 15px; }
+.frp-list-functions { margin-bottom: 12px; border: 1px solid rgba(204, 204, 204, 0.51);}
+.frp-list-functions-title { background: rgb(204, 204, 204); padding: 15px 10px; font-size: 14px; cursor: pointer;}
+.frp-submit-settings {text-align: right;}
+.frp-submit-settings input { border: 1px solid #0073aa; padding: 12px 25px;border-radius: 5px; color: #0073aa; font-weight: 600; cursor: pointer;}
+.frp-submit-settings input:hover {border: 1px solid rgb(0, 115, 170); color: rgb(255, 255, 255); background: rgb(0, 115, 170);}
+.frp-list-functions-content { padding: 15px 10px; }
+.function-options label { display: block; padding-bottom: 9px; padding-left: 30px; font-weight: 600; }
+.function-guide { padding: 15px 10px; }
+.frp-function-sample-after, .frp-function-sample-before { padding: 15px 10px; background: rgb(222, 222, 222); border-radius: 5px; margin: 10px 0; }
+.frp-how-works-content { font-size: 15px; padding: 20px 10px; border: 1px solid rgb(204, 204, 204);line-height: 25px;}
